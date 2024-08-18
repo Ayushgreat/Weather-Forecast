@@ -9,8 +9,8 @@ GITHUB LINK =     https://github.com/Ayushgreat/Weather-Forecast.git
 weather-forecast-app/
 ├── index.html
 ├── styles/
-│   └── main.css
+│   └── output.css
 ├── scripts/
-│   └── app.js
+│   └── script.js
 ├── README.md
 └── .gitignore
