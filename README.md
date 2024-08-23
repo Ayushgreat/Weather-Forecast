@@ -68,8 +68,6 @@ Display temperature, humidity, wind speed, and appropriate icons based on weathe
 5. Extended Forecast Display 
 Task: Display a multi-day weather forecast.
 Steps:
-API Integration:
-Modify the API call to retrieve extended forecast data (e.g., 5-day forecast).
 Display Data:
 Organize the forecast into a visually appealing format (date, icon, temperature, wind, humidity).
 6. Error Handling and Validation 
@@ -77,7 +75,4 @@ Task: Handle errors gracefully.
 Steps:
 Error Handling:
 Implement try-catch blocks in your API calls.
-Display user-friendly error messages when something goes wrong (e.g., network issues, invalid city names).
-Documentation:
-Comment your code for clarity.
-Create a README.md file with setup instructions, API usage details, and a brief overview of the application.
+
